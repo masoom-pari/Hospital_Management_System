@@ -8,3 +8,8 @@
 
 
 ![image alt](https://github.com/masoom-pari/Hospital_Management_System/blob/c6d06dbbbeff5aefc63e7f83e8efdd22da0c4f74/git%20hospital%20system/ChatGPT%20Image%20Jun%205%2C%202026%2C%2001_49_42%20PM.png)
+
+
+output of the project
+
+![image alt](https://github.com/masoom-pari/Hospital_Management_System/blob/0f1a74385e0476c8913adeab8814604c5f2f0f4b/git%20hospital%20system/ChatGPT%20Image%20Jun%205%2C%202026%2C%2002_13_53%20PM.png)
